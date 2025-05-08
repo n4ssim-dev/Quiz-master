@@ -33,5 +33,5 @@ try:
        quiz.next_question()
 
 except KeyboardInterrupt:
-    print("\n\n\nGame terminated.")
+    print("\n\n\nGame terminated abruptly.")
 
